@@ -1,4 +1,4 @@
-# webpack-template
+# webpack-starter
 
 从零搭建 webpack，某些需要徒手搭建 webpack 编译的场景，这是一个 Project Template 选项。
 
